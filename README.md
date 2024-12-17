@@ -26,7 +26,7 @@ Milage may vary depending on typos and formating. You still have to clean your d
 
 ## Install
 
-`pip3 install git+https://github.com/Syker.uk/cleancorp.git`
+`pip3 install git+https://github.com/PositivPy/CleanCorp`
 
 ## Code
 
